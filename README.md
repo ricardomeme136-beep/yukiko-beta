@@ -14,3 +14,8 @@ Upload the three website files to any static web host (Cloudflare Pages, Netlify
 - The footer's Impressum/Datenschutz link is a temporary link to the original site; point it to exact verified legal pages before launch.
 - Verify opening hours, current menu/prices, reservation rules, brand/trademark permission, and content before going live.
 - This is a modernized adaptation, not a pixel-perfect recreation of the existing WordPress theme.
+
+
+## Design update — restaurant-inspired edition
+Updated with warm lacquer/ink tones, ivory paper, muted vermilion accents, Japanese-inspired seal motif, arched menu photography, and German editorial copy to evoke Yukiko's contemporary Vietnamese/Japanese dining identity.
+Original photos are currently referenced from the source website and require internet; mirror these assets locally for a standalone production deployment. The form opens the visitor's email client, not a reservation backend.
